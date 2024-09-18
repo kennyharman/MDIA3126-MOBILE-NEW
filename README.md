@@ -1,50 +1,29 @@
-# Welcome to your Expo app 👋
+# README FOR THE IN-CLASS GIT! HELLO SONJA!
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+ ## CHEAT SHEET
 
-## Get started
+**IF YOU GET AN ERROR !!!!!!**
 
-1. Install dependencies
+TRY TO DELETE YOUR NODE MODULES FOLDER
+- RM -RF node_modules
+- (-rm = remove -rf recursive folder name)
 
-   ```bash
-   npm install
-   ```
+*OR*
 
-2. Start the app
+RESTART YOUR PROJECT
 
-   ```bash
-    npx expo start
-   ```
+## Lab 2
 
-In the output, you'll find options to open the app in a
+### In your branch for this class, update your README (don't mind if I do)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+**3 things you want to try during this course**
+- I would like to try implementing a map or location API of some sort. This may be something that's really useful for our app project
+- I would like to learn as many methods of styling as possible, outside of ordinary CSS. Last term we worked a bit with lottie to import animation files as code, I would be interested in knowing other similar methods of styling a site / app
+- How to efficiently build components of an app or website, such as carousels, accordions, etc. Ways to quickly and efficiently built these components, or have them pre-built (bootstraps maybe? not sure)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+**2 things you learned today**
+- I'm quickly picking up on how to write and import certain components in react-native, such as View tag, Text tag, Pressable tag. They serve similar purposes as elements we've already been using, but I enjoy learning how to write these things in react-native; enjoy learning new coding languages
+- Glad we went over linking and routers, this is something we touched on very briefly last term but I had mostly forgotten. Thankfully we went over this and I feel up to speed again pretty quickly
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+**1 word for how you're feeling**
+- Gubernatorial 
