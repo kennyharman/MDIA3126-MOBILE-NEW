@@ -5,10 +5,10 @@ import { Link } from 'expo-router';
 export default function Page() {
   return (
     <View>
-      <h1>
+      <Text>
         GOD'S PLAN
-      </h1>
-      <Link href="/godsplan">WHAT ARE YOU AWARE OF?</Link>
+        <Link href="/godsplan">WHAT ARE YOU AWARE OF?</Link>
+      </Text>
     </View>
   )
 }
